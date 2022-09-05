@@ -1,4 +1,4 @@
-const baseURL = "http://localhost:8080";
+const baseURL = "http://moranti.patrick-kringelum.dk";
 const navBar = document.getElementById("nav-bar");
 
 navBar.innerHTML = `
