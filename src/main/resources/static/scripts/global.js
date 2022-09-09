@@ -1,4 +1,4 @@
-const baseURL = "http://moranti.christian-detlefsen.dk";
+const baseURL = "https://moranti.christian-detlefsen.dk";
 const navBar = document.getElementById("nav-bar");
 
 navBar.innerHTML = `
